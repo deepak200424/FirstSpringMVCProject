@@ -10,6 +10,13 @@
                   org.springframework.web.servlet.DispatcherServlet
         </servlet-class>
   </servlet>
+  
+  <servlet>
+  	<servlet-name>spring-dispatcher</servlet-name>
+        <servlet-class>
+                  org.springframework.web.servlet.DispatcherServlet
+        </servlet-class>
+  </servlet>
  
   <servlet-mapping>
  	<servlet-name>spring-dispatcher</servlet-name>
