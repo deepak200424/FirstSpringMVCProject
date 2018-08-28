@@ -26,7 +26,12 @@ Test to commit in web xml files
 </servlet>
 -->
 
+<!--
+<servlet>
+commit fix issue on hmpg
 
+</servlet>
+-->
   <servlet-mapping>
  	<servlet-name>spring-dispatcher</servlet-name>
         <url-pattern>/</url-pattern>
