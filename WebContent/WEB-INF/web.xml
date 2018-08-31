@@ -31,7 +31,32 @@ Test to commit in web xml files in b4
 commit fix issue on hmpg
 
 </servlet>
+
+
 -->
+
+<!--
+  <servlet>
+  	<servlet-name>spring-dispatcher</servlet-name>
+        <servlet-class>
+                  org.springframework.web.servlet.DispatcherServlet
+        </servlet-class>
+  </servlet>
+ -->
+
+<!--
+<servlet>
+Test to commit in web xml files in b4
+
+</servlet>
+-->
+
+<!--
+<servlet>
+commit fix issue on hmpg
+-->
+</servlet>
+
   <servlet-mapping>
  	<servlet-name>spring-dispatcher</servlet-name>
         <url-pattern>/</url-pattern>
